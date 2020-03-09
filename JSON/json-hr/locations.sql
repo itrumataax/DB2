@@ -1,0 +1,1 @@
+select row_to_json(locations) from "Bayacag_MidtermExam".locations;

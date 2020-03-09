@@ -1,0 +1,1 @@
+SELECT row_to_json(employees) FROM "Bayacag_MidtermExam".employees;

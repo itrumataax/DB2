@@ -1,0 +1,1 @@
+select row_to_json(job_history) from "Bayacag_MidtermExam".job_history;

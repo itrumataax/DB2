@@ -1,0 +1,1 @@
+select row_to_json(departments) from "Bayacag_MidtermExam".departments;
